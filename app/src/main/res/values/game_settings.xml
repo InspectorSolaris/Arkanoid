@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="gameViewTextSize">56</integer>
+
+    <!--
+        marginLeft
+        marginTop
+        marginRight
+        marginBottom
+    -->
+    <integer-array name="gameViewMargins">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>128</item>
+    </integer-array>
+
+    <string-array name="difficultyName">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+    <integer-array name="difficultyId">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="bricksGap">
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="bricksPerColumn">
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+    </integer-array>
+
+    <integer-array name="bricksPerRow">
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+    </integer-array>
+
+    <integer-array name="ballSpeed">
+        <item>512</item>
+        <item>1024</item>
+        <item>1536</item>
+    </integer-array>
+
+    <integer-array name="ballSizeX">
+        <item>32</item>
+        <item>16</item>
+        <item>8</item>
+    </integer-array>
+
+    <integer-array name="ballSizeY">
+        <item>32</item>
+        <item>16</item>
+        <item>8</item>
+    </integer-array>
+
+    <integer-array name="paddleSizeX">
+        <item>384</item>
+        <item>256</item>
+        <item>128</item>
+    </integer-array>
+
+    <integer-array name="paddleSizeY">
+        <item>16</item>
+        <item>16</item>
+        <item>16</item>
+    </integer-array>
+
+    <integer-array name="lives">
+        <item>16</item>
+        <item>8</item>
+        <item>4</item>
+    </integer-array>
+
+    <integer-array name="scoreMultiplier">
+        <item>20</item>
+        <item>15</item>
+        <item>10</item>
+    </integer-array>
+
+</resources>

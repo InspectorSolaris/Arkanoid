@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Lab3</string>
+
+    <string name="layout_main_screen_title">Main Screen</string>
+    <string name="layout_main_start_game_text">Start Game</string>
+    <string name="layout_main_settings_text">Settings</string>
+    <string name="layout_main_scores_text">Scores</string>
+    <string name="layout_main_exit_text">Exit</string>
+
+    <string name="layout_difficulty_screen_title">Choose difficulty</string>
+    <string name="layout_difficulty_easy_text">Easy</string>
+    <string name="layout_difficulty_medium_text">Medium</string>
+    <string name="layout_difficulty_hard_text">Hard</string>
+    <string name="layout_difficulty_back_text">Back</string>
+
+    <string name="layout_settings_screen_title">Set audio preset</string>
+    <string name="layout_settings_set_audio1_text">Standard</string>
+    <string name="layout_settings_set_audio2_text">MLG</string>
+    <string name="layout_settings_set_audio3_text">There is no way back</string>
+    <string name="layout_settings_back_text">Back</string>
+
+    <string name="layout_scores_no_scores">No scores set yet.\nWin game to set score</string>
+    <string name="layout_scores_hint_user">User</string>
+    <string name="layout_scores_hint_score">Score</string>
+    <string name="layout_scores_hint_time">Time</string>
+
+    <string name="layout_score_input_user_user_hint">Your name</string>
+
+    <string name="layout_scores_back_text">Back</string>
+
+    <string name="game_lives_string">Lives: </string>
+    <string name="game_score_string">Score: </string>
+    <string name="game_you_win_title">You Win!</string>
+    <string name="game_you_lose_title">You Lose!</string>
+    <string name="game_you_win_message">Enter your name</string>
+    <string name="game_positive_button_string">Okay</string>
+    <string name="game_negative_button_string">Cancel</string>
+
+
+</resources>

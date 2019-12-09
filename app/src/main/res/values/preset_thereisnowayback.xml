@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="thereisnowayback_background1">android.resource://com.example.lab3/raw/audio_thereisnowayback_background1</string>
+    <string name="thereisnowayback_background2">android.resource://com.example.lab3/raw/audio_thereisnowayback_background2</string>
+    <string name="thereisnowayback_background3">android.resource://com.example.lab3/raw/audio_thereisnowayback_background3</string>
+    <string name="thereisnowayback_brick">android.resource://com.example.lab3/raw/audio_thereisnowayback_brick</string>
+    <string name="thereisnowayback_paddle">android.resource://com.example.lab3/raw/audio_thereisnowayback_paddle</string>
+    <string name="thereisnowayback_on_lose">android.resource://com.example.lab3/raw/audio_thereisnowayback_on_lose</string>
+    <string name="thereisnowayback_on_win">android.resource://com.example.lab3/raw/audio_thereisnowayback_on_win</string>
+
+    <string-array name="thereisnowayback_background">
+        <item>@string/thereisnowayback_background1</item>
+        <item>@string/thereisnowayback_background2</item>
+        <item>@string/thereisnowayback_background3</item>
+    </string-array>
+
+    <string-array name="thereisnowayback_common">
+        <item>@string/thereisnowayback_brick</item>
+        <item>@string/thereisnowayback_paddle</item>
+        <item>@string/thereisnowayback_on_lose</item>
+        <item>@string/thereisnowayback_on_win</item>
+    </string-array>
+
+</resources>

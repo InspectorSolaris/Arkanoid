@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mlg_background1">android.resource://com.example.lab3/raw/audio_mlg_background1</string>
+    <string name="mlg_brick">android.resource://com.example.lab3/raw/audio_mlg_brick</string>
+    <string name="mlg_paddle">android.resource://com.example.lab3/raw/audio_mlg_paddle</string>
+
+    <string-array name="mlg_background">
+        <item>@string/mlg_background1</item>
+    </string-array>
+
+    <string-array name="mlg_common">
+        <item>@string/mlg_brick</item>
+        <item>@string/mlg_paddle</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="standard_background1">android.resource://com.example.lab3/raw/audio_standard_background1</string>
+    <string name="standard_background2">android.resource://com.example.lab3/raw/audio_standard_background2</string>
+    <string name="standard_brick">android.resource://com.example.lab3/raw/audio_standard_brick</string>
+    <string name="standard_paddle">android.resource://com.example.lab3/raw/audio_standard_paddle</string>
+
+    <string-array name="standard_background">
+        <item>@string/standard_background1</item>
+        <item>@string/standard_background2</item>
+    </string-array>
+
+    <string-array name="standard_common">
+        <item>@string/standard_brick</item>
+        <item>@string/standard_paddle</item>
+    </string-array>
+
+</resources>
